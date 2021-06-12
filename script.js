@@ -4,6 +4,7 @@
 
 
 window.onload = function login() {
+    
     const div = document.getElementById("outlet");
     let templateLogin = `
                          <h1>Please Login</h1>
